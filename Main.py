@@ -20,4 +20,5 @@ def main():
 
     ee = EquiparEncantamiento()
     ee.visitar_personajes(personajes)
-    
+
+main()
